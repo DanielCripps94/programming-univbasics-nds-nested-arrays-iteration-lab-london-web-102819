@@ -1,5 +1,8 @@
 def join_ingredients(src)
-  array = ["pepperoni", "sausage"], ["green olives", "green peppers"], ["onions", "pineapple"]
+  ingredients = ["pepperoni", "sausage"], ["green olives", "green peppers"], ["onions", "pineapple"]
+  
+  row_index= 0 
+  while row_index < 
   
   # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
   #
